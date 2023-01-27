@@ -9,7 +9,7 @@ setwd("/Users/YOUR_USERNAME/Desktop/Divvy_Exercise/csv") #sets working directory
 
 # STEP 1: COLLECT DATA
 
-# Upload Divvy datasets (csv files) here
+# Upload datasets (csv files) here
 
 q2_2019 <- read_csv("Divvy_Trips_2019_Q2.csv")
 q3_2019 <- read_csv("Divvy_Trips_2019_Q3.csv")
