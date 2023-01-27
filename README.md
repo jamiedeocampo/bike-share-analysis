@@ -9,8 +9,8 @@
 ![img-q1_2020-raw](visuals/img-q1_2020-raw.png)
 
 ### Combined and Cleaned
-![img-all-trips-cleaned-01](visuals/img-all-trips-cleaned-01)
-![img-all-trips-cleaned-01](visuals/img-all-trips-cleaned-02)
+![img-all-trips-cleaned-01](visuals/img-all-trips-cleaned-01.png)
+![img-all-trips-cleaned-01](visuals/img-all-trips-cleaned-02.png)
 
 ### Visualization for number of rides by rider type
 ![Visualization for number of rides by rider type](visuals/img-visual-rides-by-rider.PNG)
