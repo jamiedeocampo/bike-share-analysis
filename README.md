@@ -1,6 +1,6 @@
-## Bike Share Analysis
+# Bike Share Analysis
 
-Introduction
+# Introduction
 
 In this case study, to answer the key business questions, I will follow the steps of the data analysis process: ask, prepare, process, analyze,
 share, and act.
@@ -12,7 +12,7 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
-Characters and teams
+# Characters and teams
 
 ● Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself
 apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with
