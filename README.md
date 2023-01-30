@@ -1,6 +1,7 @@
 # Bike Share Analysis
 
 *Review the R Script:* **[HERE](https://github.com/jamiedeocampo/bike-share-analysis/blob/main/bike-share-analysis.R)**<br />
+*Data source:* **<a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Link</a>**
 
 ### Raw CSV Files
 ![img-q2_2019-raw](visuals/img-q2_2019-raw.png)
