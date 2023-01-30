@@ -16,7 +16,13 @@ The data was downloaded directly from the Divvy Bikes website: https://www.divvy
 
 3. Process Phase
 
-After regularising and importing the data, the first step was to inspect each attribute for anomalies.  A new column for trip length (in minutes) was created.
+After regularising and importing the data, the first step was to inspect each attribute for anomalies.  
+
+There are a few problems we will need to fix:
+1. In the "member_casual" column, there are two names for members ("member" and "Subscriber") and two names for casual riders ("Customer" and "casual"). We will need to consolidate that from four to two labels.
+2. The data can only be aggregated at the ride-level, which is too granular. We will want to add some additional columns of data -- such as day, month, year -- that provide additional opportunities to aggregate the data.
+3. We will want to add a calculated field for length of ride since the 2020Q1 data did not have the "tripduration" column. We will add "ride_length" to the entire dataframe for consistency.
+4. There are some rides where tripduration shows up as negative, including several hundred rides where Divvy took bikes out of circulation for Quality Control reasons. We will want to delete these rides.
 
 4. Analyse Phase
 
