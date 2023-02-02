@@ -1,8 +1,6 @@
-# Bike Share Analysis
+# Google Analytics Capstone Project using Cyclistic (Divvy) bike data
 
-*Review the R Script:* **[HERE](https://github.com/jamiedeocampo/bike-share-analysis/blob/main/bike-share-analysis.R)**<br />
-
-Google Analytics Capstone Project using Cyclistic (Divvy) bike data
+*View the R Script:* **[HERE](https://github.com/jamiedeocampo/bike-share-analysis/blob/main/bike-share-analysis.R)**<br />
 
 This Case Study was completed as part of the Google Data Analytics Professional Certificate.
 
