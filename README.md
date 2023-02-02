@@ -1,4 +1,4 @@
-# Google Analytics Capstone Project using Cyclistic (Divvy) bike data
+# Google Data Analytics Capstone Project using Divvy bike data
 
 *View the R Script:* **[HERE](https://github.com/jamiedeocampo/bike-share-analysis/blob/main/bike-share-analysis.R)**<br />
 
@@ -6,7 +6,7 @@ This Case Study was completed as part of the Google Data Analytics Professional 
 
 1. Objective (Ask Phase)
 
-To analyse how annual members and casual riders use Cyclistic bikes differently in order to determine the best marketing strategy to convert casual riders into annual members.
+To analyse how annual members and casual riders use bikes differently in order to determine the best marketing strategy to convert casual riders into annual members.
 
 2. Prepare Phase
 
